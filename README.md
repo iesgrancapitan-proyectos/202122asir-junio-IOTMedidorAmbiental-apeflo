@@ -2,7 +2,7 @@
 
 # Sistema IOT para la monitorización y visualización de parámetros ambientales.
 
-## 1.Descripción del proyecto
+## 1. Descripción del proyecto
 
  
 Hablar, toser, reír o gritar son actividades cotidianas que hasta hace unos meses no suponían ningún peligro. Ahora en espacios cerrados son bombas de relojería. Y es que ventilar es tu aliado para frenar los contagios de la COVID-19. Abrir las ventanas cinco veces en un aula de 100 metros cuadrados, con 25 personas, permite renovar 14 litros de aire por persona y segundo.
@@ -13,7 +13,7 @@ Reemplaza el aire contaminado por aire limpio del exterior y, además, se elimin
 
 De esta forma creamos un entorno más seguro y todo el personal que compartimos espacios (profesores, alumnos, personal de otro tipo) tenemos la seguridad de que la calidad del aire está controlada. «Los encargados pueden ventilar lo justo, sin gasto energético innecesario», y comentar que la red de datos que se genera se puede usar para transmitir a su vez otro tipo de mediciones de forma gratuita.
 
-## 2.Información sobre despliegue
+## 2. Información sobre despliegue
 
 El objetivo del proyecto es implementar una red IoT (Internet of Things) en diferentes aulas del instituto para recoger valores medioambientales como serían temperatura, humedad y nivel de CO2. El despliegue necesario para este proyecto se basa básicamente en el microcontrolador ESP8266 y varios sensores que recogerían valores medioambientales y que enviarán a través de Wifi. Estos datos son procesados por un broker MQTT y enviados para su almacenamiento una base de datos a través de una aplicación llamada Telegraf. Para acceder a la información se usará Grafana, una herramienta que monitoriza y visualiza datos mediante representación con gráficas y tablas, con la finalidad de que la información representada sea más fácil de interpretar.
 
@@ -22,12 +22,12 @@ Un uso apropiado y útil de este proyecto de IoT, por la situación de pandemia 
 Una vez hecho todo el despliegue y visto que funciona correctamente le añadiremos un sistema de avisos mediante correo electrónico, esto es por ejemplo si se llega a una situación en la que hay demasiado CO2 en el aula, se pueda notificar y hacer el cambio de clase y ventilarlo.
 
 
-## 3.Información sobre cómo usarlo
+## 3. Información sobre cómo usarlo
 
-## 4.Autores
+## 4. Autores
 * [Juan Antonio Cuenca Martínez](https://github.com/cuenca1805)
 * [Francisco Javier Rodríguez Méndez](https://github.com/mendezfr)
 
-## 5.Wiki
+## 5. Wiki
 
 [Ver wiki](https://github.com/iesgrancapitan-proyectos/202122asir-junio-IOTMedidorAmbiental-apeflo/wiki)
