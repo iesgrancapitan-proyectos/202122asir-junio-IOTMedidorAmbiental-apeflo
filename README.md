@@ -8,7 +8,7 @@ Hemos creado un sistema IoT que recibe datos medioambientales como CO2, temperat
 
 De esta forma creamos un entorno más seguro y todo el personal que compartimos espacios (profesores, alumnos, personal de otro tipo) tenemos la seguridad de que la calidad del aire en las aulas está controlada. «Los encargados pueden ventilar lo justo, sin gasto energético innecesario», y comentar que la red de datos que se genera se puede usar para transmitir a su vez otro tipo de mediciones de forma gratuita.
 
-Todos los componentes van protegidos dentro de una caja hecha a medida en una impresora 3D.
+Todos los componentes van protegidos dentro de una caja hecha a medida en una impresora 3D que se hizo en el Aulateca de nuestro centro.
 
 ## 2. Información sobre despliegue
 
